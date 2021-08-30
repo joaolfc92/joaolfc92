@@ -19,6 +19,7 @@
   <a href="http://www.linkedin.com/in/joao-luiz-869214140/"><img align="center" alt="Rafa-Js" height="40" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-    the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://web.whatsapp.com/send?phone=5521969084966"> <img align="center" alt="Rafa-Js" height="40" width="110" src="https://img.shields.io/badge/WhatsApp-25D366?       style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="mailto:joaobotanocoracao@gmail.com"> <img align="center" alt="Rafa-Js" height="40" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://telegram.me/Joaolfc92"> <img align="center" alt="Rafa-Js" height="40" width="110" src="	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  
 
 </div>
